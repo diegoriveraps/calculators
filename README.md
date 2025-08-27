@@ -1,4 +1,6 @@
 # Calculator
-[Calculator U.S.](https://diegorivera.shinyapps.io/calculator_us/)
+[Normative Data Calculator U.S.](https://diegorivera.shinyapps.io/calculator_us/)
 
-[Calculator Basque and Catalan](https://diegorivera.shinyapps.io/calculator_basq_cat/)
+[Normative Data Calculator Basque and Catalan Population](https://diegorivera.shinyapps.io/calculator_basq_cat/)
+
+[Normative Data Calculator for Waranka population](https://elianafuentes.shinyapps.io/Datos-Normativos/)
